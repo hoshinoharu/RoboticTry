@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">RoboticTry</string>
+    <string-array name="characters">
+        <item>白练</item>
+        <item>游侠</item>
+        <item>圣女</item>
+        <item>月光</item>
+        <item>绯红</item>
+        <item>强袭</item>
+        <item>影舞</item>
+        <item>鬼铠</item>
+        <item>战车</item>
+        <item>雪地</item>
+        <item>山吹</item>
+        <item>次元</item>
+        <item>疾风</item>
+        <item>凯旋</item>
+        <item>深红</item>
+        <item>血色玫瑰</item>
+        <item>巫女</item>
+        <item>勿忘我</item>
+        <item>誓约</item>
+        <item>紫苑</item>
+    </string-array>
 </resources>

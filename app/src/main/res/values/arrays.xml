@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kinds">
+        <item>场景</item>
+        <item>控件</item>
+    </string-array>
+</resources>

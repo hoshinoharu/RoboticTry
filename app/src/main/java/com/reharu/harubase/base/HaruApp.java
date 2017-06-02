@@ -19,4 +19,8 @@ public class HaruApp extends Application {
     public static Context context(){
         return context ;
     }
+
+    public static void setContext(Context context) {
+        HaruApp.context = context;
+    }
 }

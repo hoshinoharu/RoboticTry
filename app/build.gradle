@@ -27,5 +27,7 @@ dependencies {
     compile 'com.android.support:appcompat-v7:25.3.1'
     compile 'com.android.support.constraint:constraint-layout:1.0.0-alpha9'
     compile 'com.android.support:design:25.3.1'
+    // https://mvnrepository.com/artifact/com.belerweb/pinyin4j
+    compile group: 'com.belerweb', name: 'pinyin4j', version: '2.5.0'
     testCompile 'junit:junit:4.12'
 }
